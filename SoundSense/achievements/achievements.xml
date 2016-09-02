@@ -68,10 +68,10 @@
   </achievementPattern>
   
   <achievementPattern logPattern="(.+) has been completed\.">
-    <achievement title="Boss" description="Make 5 worshop orders." triggerAmount="5" />
-    <achievement title="Micromanging" description="Make 25 worshop orders." triggerAmount="25" />
-    <achievement title="Pointy Haired" description="Make 125 worshop orders." triggerAmount="125" />
-    <achievement title="Centralized Economy" description="Make 625 worshop orders." triggerAmount="625" />
+    <achievement title="Boss" description="Make 5 workshop orders." triggerAmount="5" />
+    <achievement title="Micromanging" description="Make 25 workshop orders." triggerAmount="25" />
+    <achievement title="Pointy Haired" description="Make 125 workshop orders." triggerAmount="125" />
+    <achievement title="Centralized Economy" description="Make 625 workshop orders." triggerAmount="625" />
   </achievementPattern>
   
   <achievementPattern logPattern="The flying (.+)bolt(.+) strikes The Goblin (.+) tearing the heart(.+)">
